@@ -9,4 +9,4 @@
 # average time per mile? What is your average speed in miles per hour? 
 # (Hint: there are 1.61 kilometers in a mile).
 # Average Speed in MPH: 
-22.2
+8.6
